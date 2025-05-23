@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi There! 👋</h1>
 
-<!--
-**shafay-azeem/shafay-azeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>I'm Shafay Azeem</b>, a passionate Software Engineer and AI Enthusiast currently based in Germany.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm building robust full-stack platforms and AI-powered tools.
+- 💼 Most recently worked on a Platform-as-a-Service system, enabling dynamic schema control using an EAV model with Node.js & PostgreSQL.
+- 🎓 Pursuing an MSc in Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg.
+- 🧠 I specialize in Full Stack Development, Machine Learning, Natural Language Processing, and Scalable System Design.
+- 📫 Reach me at: **shafayazeem1@gmail.com** | [LinkedIn](https://www.linkedin.com/in/shafay-azeem)
+
+---
+
+### 🚀 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,python,aws,docker,git,github,vercel" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafay-azeem&theme=default" alt="GitHub Streak Stats" />
+</p>
