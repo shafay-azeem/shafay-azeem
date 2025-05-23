@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hello Guys</h1>
 
 <p align="center">
   <b>I'm Shafay Azeem</b>, a passionate Software Engineer and AI Enthusiast currently based in Germany.
